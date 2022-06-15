@@ -5,6 +5,7 @@ body{
   font-weight: 400;
 }
 h1{
+  font-size: 1.3rem;
   color: hsl(218, 44%, 22%);
   padding: 0% 5%;
 }
